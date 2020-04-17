@@ -19,8 +19,6 @@ Adjusting the facial expression of the character leads to a computation of a val
 </br><img src="img/mam.gif" width="300px"></br></br>
 
 
-MAM besteht im Wesentlichen aus einer Figur, deren Gesichtsausdruck der Nutzer auf die Frage nach seinem Gefühlszustand so anpassen kann, dass sie den Zustand repräsentiert.
-
 ## Installation
 
 Import the *Morph_A_Mood* Unity package into your project. From the top menu, go to *Assets* &rarr; *Import Package* &rarr; *Custom Package*. The *Morph A Mood* asset uses the *TextMesh Pro* package. If it has not already been imported via the Package Manager, you will be automatically prompted to do so (as checked on Unity version 2019.3.3f1), at the latest when you load one of the example scenes or place the *MorphAMood* prefab in your custom scene. So drag the *MorphAMood* prefab into the hierarchy window of your scene (or load one of the example scenes from the *Scenes* directory). When you are asked to load the *TextMesh Pro* package, which you should confirm, it may happen, that the text of the *MorphAMood* interface may be displayed much too large. Just reload the scene or drag the prefab into your scene again and the text should be displayed in normal size.
