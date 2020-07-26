@@ -73,7 +73,7 @@ In order to **assess an affective state with a pictographic scale**, the user is
 The validation of the tool is described in [6], the data of the validation experiment is available on [mam.christiankruger.de](mam.christiankruger.de).
 
 <sub>
-[1] Eder, A. and Brosch, T. (2017). Emotion. In Müsseler, J. and Rieger,M. (eds.). Allgemeine Psychologie. Berlin, Heidelberg: Springer, pp. 185–222.
+[1] Eder, A. and Brosch, T. (2017). Emotion. In Müsseler, J. and Rieger,M. (eds.). Allgemeine Psychologie. Berlin, Heidelberg: Springer, pp. 185–222.
 </sub>
 </br></br>
 <sub>
@@ -93,7 +93,7 @@ The validation of the tool is described in [6], the data of the validation exper
 </sub>
 </br></br>
 <sub>
-[6] Krüger, C., Kojic, T., Maier, L., Möller, S. and Voigt-Antons, J.-N. (2020). Development and validation of pictographic scales for rapid assessment of affective states in virtual reality. (Publishing information will follow in June 2020)
+[6] Krüger, C., Kojic, T., Maier, L., Möller, S. and Voigt-Antons, J.-N. (2020). Development and validation of pictographic scales for rapid assessment of affective states in virtual reality. 2020 Twelfth International Conference on Quality of Multimedia Experience (QoMEX), Athlone, Ireland, IEEE, pp. 1-6, DOI: 10.1109/QoMEX48832.2020.9123100
 </sub>
 
 
@@ -124,5 +124,5 @@ Since the polar map works on dimensions that are not equal to the valence-arousa
 ## Acknowledgement
 
 Many thanks to Dr.-Ing. Jan-Niklas Voigt-Antons, Tanja Kojic, Martin Josef Burghardt, Alina
-Dorsch, Katharina Erben, Christof Grumpelt, Christopher Hyna, Lena Manger, Urszula Przybylska, Tina Schüler and Peter Schwartz for the discussions. In addition, Natalie Romero and her team for providing the PAM cartoons as well as the DEAP research team for granting access to their database, which both, cartoons and database, were essential for the development and the validation experiment.
+Dorsch, Katharina Erben, Christof Grumpelt, Christopher Hyna, Lena Manger, Urszula Przybylska, Tina Schüler and Peter Schwartz for the discussions. In addition, Natalie Romero and her team for providing the PAM cartoons as well as the DEAP research team for granting access to their database, which both, cartoons and database, were essential for the development and the validation experiment.
 Finally, many thanks to all the volunteers who took part in the online study and the experiment, and to all the author's friends and family who helped to recruit test subjects.
